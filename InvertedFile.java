@@ -1,4 +1,4 @@
-// Nathan Fuller
+// Work of Prof. James Allan
 
 public class InvertedFile implements InvertedFileInterface{
 	
