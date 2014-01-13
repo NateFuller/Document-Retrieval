@@ -1,4 +1,5 @@
-// Nathan Fuller
+// Work of Prof. James Allan
+
 import java.util.*;
 import java.io.*;
 
