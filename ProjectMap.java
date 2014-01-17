@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-
+// Work of Prof. James Allan
 public class ProjectMap<K,V> implements MapInterface<K,V>, Iterable<K> {
 
 	private class Pair<Ke,Va> {

@@ -1,3 +1,6 @@
+// Original work of Nathan Fuller
+// Just a helper class I made in order to learn how to split stuff...
+
 import java.util.Scanner;
 
 public class PracticeSplit {

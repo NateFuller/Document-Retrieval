@@ -1,3 +1,5 @@
+// Original Work of Nathan Fuller
+
 import java.util.Scanner;
 
 public class NextCommand{
