@@ -1,3 +1,5 @@
+// Original work of Nathan Fuller
+
 public class Command implements CommandInterface{
 	private String input,cmd;
 	private String arg,cmdString; 

@@ -1,3 +1,5 @@
+// Original work of Nathan Fuller
+
 public class WordList implements WordListInterface{
 	private Node<String> head,tail;
 	private int count = 0;

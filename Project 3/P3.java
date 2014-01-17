@@ -1,7 +1,8 @@
 import java.io.*;
 import java.util.Stack;
 
-//Nathan Fuller
+// This file contains the solution to P2 submission (by Prof. Allan)
+// as well as added work by Nathan Fuller 
 public class P3 {
 	public static void main(String[] args){
 		
@@ -89,7 +90,7 @@ public class P3 {
 			}
 		}while(!userRequestsExit);
 		
-		//Couresy exit message.
+		//Courtesy exit message.
 		System.out.println("Thank you for playing.");
 		System.out.println("You processed " 
 							+ h.numCommands()

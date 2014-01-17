@@ -15,3 +15,9 @@ think of at the moment...
 	I am posting this project as a sort of element of my portfolio of my 
 career at UMass. In the future, I will probably be more tidy with my code 
 since I am going to try to make this a trend.
+
+"Interfaces": You'll see a lot of interfaces in these files. These were all
+provided by Prof. Allan, not as a means of using abstraction, but just as 
+skeletons to indicate what functionality we were to add to the project. He
+provided us the method names with return types, we implemented their actual
+functionality.

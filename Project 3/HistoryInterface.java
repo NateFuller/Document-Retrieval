@@ -1,4 +1,4 @@
-
+// Provided by Prof. Allan
 public interface HistoryInterface {
 
 	// expected constructor: History()

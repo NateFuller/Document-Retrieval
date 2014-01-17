@@ -1,3 +1,4 @@
+// Provided by Prof. Allan
 
 public interface DocumentInterface {
 

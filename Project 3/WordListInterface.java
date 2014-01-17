@@ -1,3 +1,5 @@
+// Provided by Prof. Allan
+
 public interface WordListInterface {
 	
 	// Expected constructor: public WordList();

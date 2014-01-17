@@ -1,5 +1,6 @@
 import java.util.StringTokenizer;
 
+// Provided by Prof. Allan
 public class Document implements DocumentInterface{
 	private String title;
 	private String docid;

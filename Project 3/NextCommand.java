@@ -1,6 +1,7 @@
 import java.util.*;
 import java.io.*;
 
+// Provided by Prof. Allan
 public class NextCommand implements NextCommandInterface  {
 
 	private Scanner inStream;

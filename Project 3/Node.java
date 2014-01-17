@@ -1,3 +1,5 @@
+// Original work of Nathan Fuller
+
 public class Node<T> { 
 	
 	private T data; 

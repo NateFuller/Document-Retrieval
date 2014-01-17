@@ -1,4 +1,4 @@
-//Nathan Fuller
+// Original work of Nathan Fuller
 public class History implements HistoryInterface{
 	
 	private class Node{
